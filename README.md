@@ -35,3 +35,20 @@ We use the method describe to obtain a statistical summary of the dataframe.
 
 ![image](https://user-images.githubusercontent.com/81119854/128384291-a1026e16-fe1b-491d-9bb0-17a97203fb86.png)
 
+![image](https://user-images.githubusercontent.com/81119854/128384566-32e64f66-1f72-4142-96be-c4fc31538b71.png)
+
+We can see we have missing values for the columns  bedrooms and  bathrooms 
+
+![image](https://user-images.githubusercontent.com/81119854/128384660-43e024d7-3527-4e78-8fc8-3702bca89ac7.png)
+
+We can replace the missing values of the column 'bedrooms' with the mean of the column 'bedrooms'  using the method replace(). We set the inplace parameter to True
+
+![image](https://user-images.githubusercontent.com/81119854/128384784-0b438f1e-4541-44e9-8090-7601b94117ff.png)
+
+We also replace the missing values of the column 'bathrooms' with the mean of the column 'bathrooms'  using the method replace(). We set the  inplace  parameter top  True
+
+![image](https://user-images.githubusercontent.com/81119854/128384973-59e80de2-ccce-43ac-b5f9-1ff50a7a2915.png)
+
+All missing values from the columns bedroom and bathroom were droped:
+
+![image](https://user-images.githubusercontent.com/81119854/128385119-a3caa2c1-7a4b-4b76-a491-616ad4aa5e44.png)
