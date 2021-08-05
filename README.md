@@ -75,4 +75,4 @@ We can use the Pandas method corr() to find the feature other than price that is
 
 ![image](https://user-images.githubusercontent.com/81119854/128386452-ff3aac39-acb2-446b-86e2-c4208e58a126.png)
 
-The living room area (sqft_living) is the feature that is most correlated with price. It suggests that better investments is this area probably could improve the value of a house as well as it would improve the sale profit.
+The living room area (sqft_living) is the feature that is most correlated with price. It suggests that better investments is this area probably could improve the value of a house as well as it would improve its sale profit.
