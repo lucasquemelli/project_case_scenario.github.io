@@ -109,3 +109,20 @@ Calculation of the R^2 separetely.
 
 ![image](https://user-images.githubusercontent.com/81119854/128388704-4e5cb182-2fe8-4bf9-a767-c44a07a94f66.png)
 
+# Model Evaluation and Refinement
+
+Importing the modules:
+
+![image](https://user-images.githubusercontent.com/81119854/128389029-085f602b-4d5c-4f6b-8ea0-71190d8dc611.png)
+
+We will split the data into training and testing sets:
+
+![image](https://user-images.githubusercontent.com/81119854/128389107-505a08c6-7584-4539-975f-5914f42bd098.png)
+
+![image](https://user-images.githubusercontent.com/81119854/128389163-403d2660-d4ea-453f-811b-9e5f8020057f.png)
+
+![image](https://user-images.githubusercontent.com/81119854/128389218-ca41cd7b-022a-47bc-8ffc-fa357e15d45c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/128389288-96385855-1fea-4570-a294-6fc293c4f073.png)
+
+![image](https://user-images.githubusercontent.com/81119854/128389333-1d14c9e9-40e8-468a-8af4-aa332689c91a.png)
