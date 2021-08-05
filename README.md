@@ -69,3 +69,10 @@ The houses without a waterfront view has much more price outliers.
 
 ![image](https://user-images.githubusercontent.com/81119854/128385884-393bfb9f-df30-4adb-bc44-4284ea81ead7.png)
 
+Square footage from house apartment from basement (sqft_above) is positively correlated with price. 
+
+We can use the Pandas method corr() to find the feature other than price that is most correlated with price.
+
+![image](https://user-images.githubusercontent.com/81119854/128386452-ff3aac39-acb2-446b-86e2-c4208e58a126.png)
+
+The living room area (sqft_living) is the feature that is most correlated with price. It suggests that better investments is this area probably could improve the value of a house as well as it would improve the sale profit.
