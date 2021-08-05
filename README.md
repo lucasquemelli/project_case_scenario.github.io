@@ -49,6 +49,23 @@ We also replace the missing values of the column 'bathrooms' with the mean of th
 
 ![image](https://user-images.githubusercontent.com/81119854/128384973-59e80de2-ccce-43ac-b5f9-1ff50a7a2915.png)
 
-All missing values from the columns bedroom and bathroom were droped:
+All missing values from the columns bedrooms and bathrooms were droped:
 
 ![image](https://user-images.githubusercontent.com/81119854/128385119-a3caa2c1-7a4b-4b76-a491-616ad4aa5e44.png)
+
+# Exploratory Data Analysis
+
+![image](https://user-images.githubusercontent.com/81119854/128385325-d7f2bc03-8c31-49ab-957e-62304efd95be.png)
+
+![image](https://user-images.githubusercontent.com/81119854/128385374-6696348b-7490-4665-89e7-45f6fdd45fab.png)
+
+![image](https://user-images.githubusercontent.com/81119854/128385460-80757996-2666-4a9e-9502-98ad627678ad.png)
+
+![image](https://user-images.githubusercontent.com/81119854/128385518-a3bbbf56-4e47-4de4-89c4-ed723caa9685.png)
+
+The houses without a waterfront view has much more price outliers.
+
+![image](https://user-images.githubusercontent.com/81119854/128385823-56bbbb75-e6d8-4493-99a1-5004aa1be9b3.png)
+
+![image](https://user-images.githubusercontent.com/81119854/128385884-393bfb9f-df30-4adb-bc44-4284ea81ead7.png)
+
