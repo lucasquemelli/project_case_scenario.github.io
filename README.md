@@ -31,3 +31,7 @@ We use the method describe to obtain a statistical summary of the dataframe.
 
 ![image](https://user-images.githubusercontent.com/81119854/128384000-901aa25a-40e0-4776-b8a1-3fc5133b68e6.png)
 
+# Data Wrangling
+
+![image](https://user-images.githubusercontent.com/81119854/128384291-a1026e16-fe1b-491d-9bb0-17a97203fb86.png)
+
