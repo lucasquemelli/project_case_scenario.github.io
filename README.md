@@ -59,6 +59,16 @@ All missing values from the columns bedrooms and bathrooms were droped:
 
 ![image](https://user-images.githubusercontent.com/81119854/128385374-6696348b-7490-4665-89e7-45f6fdd45fab.png)
 
+The codes above found the minimum number of houses which presented a certain number of floors. For this purpose, there is 8 houses with approximately 3.5 floors.
+
+The right codes to find the number of houses with only 1 floor are:
+
+![image](https://user-images.githubusercontent.com/81119854/128392592-7612c6d8-7ff3-4c39-abea-2df8953f73f1.png)
+
+Or it also may be:
+
+![image](https://user-images.githubusercontent.com/81119854/128392650-4a6e3483-9e9e-4b66-b5c6-616f1edccee9.png)
+
 ![image](https://user-images.githubusercontent.com/81119854/128385460-80757996-2666-4a9e-9502-98ad627678ad.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/128385518-a3bbbf56-4e47-4de4-89c4-ed723caa9685.png)
