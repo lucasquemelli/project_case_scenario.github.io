@@ -76,3 +76,36 @@ We can use the Pandas method corr() to find the feature other than price that is
 ![image](https://user-images.githubusercontent.com/81119854/128386452-ff3aac39-acb2-446b-86e2-c4208e58a126.png)
 
 The living room area (sqft_living) is the feature that is most correlated with price. It suggests that better investments is this area probably could improve the value of a house as well as it would improve its sale profit.
+
+# Model Development
+
+We can Fit a linear regression model using the longitude feature 'long' and caculate the R^2.
+
+![image](https://user-images.githubusercontent.com/81119854/128387256-f4a41114-452b-44dd-84aa-c9c9dc37c5f1.png)
+
+The R^2 suggests that a variation on feature 'long' (longitude coordinate) weakly influences the price.
+
+![image](https://user-images.githubusercontent.com/81119854/128387421-07cdd0c2-3d5e-4395-b02f-6a391b41949d.png)
+
+![image](https://user-images.githubusercontent.com/81119854/128387451-9f02747c-9349-47b1-b345-366816495754.png)
+
+Otherwise, a variation on the living room has more influence on price.
+
+![image](https://user-images.githubusercontent.com/81119854/128388100-d5fb102f-9be8-431e-b07c-5ae8ae1c3687.png)
+
+![image](https://user-images.githubusercontent.com/81119854/128388132-369a4971-afe5-4b70-a756-882b0132de9d.png)
+
+A variation on a set of features better influences on the price of the houses. 
+
+Calculation of the R^2 separetely.
+
+![image](https://user-images.githubusercontent.com/81119854/128388384-3c868f59-e296-4b53-afaf-e1abe8d77ea2.png)
+
+![image](https://user-images.githubusercontent.com/81119854/128388490-5c7a365b-80b2-4431-965f-415a06b062fd.png)
+
+![image](https://user-images.githubusercontent.com/81119854/128388527-3920145e-0d80-468b-b50d-47db0c168ac0.png)
+
+![image](https://user-images.githubusercontent.com/81119854/128388568-bf0f35bb-1875-4aec-87ec-99257c09e541.png)
+
+![image](https://user-images.githubusercontent.com/81119854/128388704-4e5cb182-2fe8-4bf9-a767-c44a07a94f66.png)
+
